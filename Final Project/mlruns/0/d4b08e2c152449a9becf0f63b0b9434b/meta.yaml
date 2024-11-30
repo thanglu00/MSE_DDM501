@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/d4b08e2c152449a9becf0f63b0b9434b/artifacts
+end_time: 1732350910896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4b08e2c152449a9becf0f63b0b9434b
+run_name: flawless-swan-736
+run_uuid: d4b08e2c152449a9becf0f63b0b9434b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732350906657
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/cd85b5e30bcd4d46b73bc80ceef2e81b/artifacts
+end_time: 1732350914829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd85b5e30bcd4d46b73bc80ceef2e81b
+run_name: merciful-smelt-325
+run_uuid: cd85b5e30bcd4d46b73bc80ceef2e81b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732350910928
+status: 3
+tags: []
+user_id: Admin

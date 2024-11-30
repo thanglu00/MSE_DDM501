@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/65d0b03fd90048b2909baf9d46339a2b/artifacts
+end_time: 1732348227653
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65d0b03fd90048b2909baf9d46339a2b
+run_name: bustling-koi-681
+run_uuid: 65d0b03fd90048b2909baf9d46339a2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348223441
+status: 3
+tags: []
+user_id: Admin

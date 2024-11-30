@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/8fc9255efb684d8f8e79d72e4ff28cad/artifacts
+end_time: 1732351949791
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8fc9255efb684d8f8e79d72e4ff28cad
+run_name: monumental-vole-159
+run_uuid: 8fc9255efb684d8f8e79d72e4ff28cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351945570
+status: 3
+tags: []
+user_id: Admin

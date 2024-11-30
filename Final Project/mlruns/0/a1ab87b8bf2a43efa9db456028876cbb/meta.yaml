@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/a1ab87b8bf2a43efa9db456028876cbb/artifacts
+end_time: 1732348236811
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1ab87b8bf2a43efa9db456028876cbb
+run_name: grandiose-perch-656
+run_uuid: a1ab87b8bf2a43efa9db456028876cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348231913
+status: 3
+tags: []
+user_id: Admin

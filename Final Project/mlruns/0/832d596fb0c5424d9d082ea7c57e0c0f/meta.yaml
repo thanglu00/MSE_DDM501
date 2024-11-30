@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/832d596fb0c5424d9d082ea7c57e0c0f/artifacts
+end_time: 1732351954449
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 832d596fb0c5424d9d082ea7c57e0c0f
+run_name: gaudy-perch-948
+run_uuid: 832d596fb0c5424d9d082ea7c57e0c0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732351949804
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/79c999c7f87a46a9a6a2882e51fa11b3/artifacts
+end_time: 1732350923647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 79c999c7f87a46a9a6a2882e51fa11b3
+run_name: delightful-bat-49
+run_uuid: 79c999c7f87a46a9a6a2882e51fa11b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732350918935
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/213b8c5e74f04506a2e6059d8dc6548b/artifacts
+end_time: 1732350518830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 213b8c5e74f04506a2e6059d8dc6548b
+run_name: sassy-crow-666
+run_uuid: 213b8c5e74f04506a2e6059d8dc6548b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732350504556
+status: 3
+tags: []
+user_id: Admin

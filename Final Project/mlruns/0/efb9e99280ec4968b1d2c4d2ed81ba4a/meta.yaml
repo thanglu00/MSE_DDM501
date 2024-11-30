@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/efb9e99280ec4968b1d2c4d2ed81ba4a/artifacts
+end_time: 1732348196721
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efb9e99280ec4968b1d2c4d2ed81ba4a
+run_name: gifted-whale-147
+run_uuid: efb9e99280ec4968b1d2c4d2ed81ba4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732348191314
+status: 3
+tags: []
+user_id: Admin

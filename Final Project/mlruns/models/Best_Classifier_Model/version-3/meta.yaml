@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732350923715
+current_stage: Production
+description: null
+last_updated_timestamp: 1732351714965
+name: Best_Classifier_Model
+run_id: 79c999c7f87a46a9a6a2882e51fa11b3
+run_link: null
+source: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/79c999c7f87a46a9a6a2882e51fa11b3/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/FPT%20edu/MLOps/Final%20Project/mlruns/0/79c999c7f87a46a9a6a2882e51fa11b3/artifacts/model
+user_id: null
+version: 3
